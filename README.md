@@ -20,7 +20,7 @@ Our client is a large Real Estate Investment Trust (REIT).
 * As part of their business, they try to predict the fair transaction price of a property before it's sold.
 * They do so to calibrate their internal pricing models and keep a pulse on the market.
 
-# Our Role
+## Our Role
 
 The REIT has hired us to find a data-driven approach to valuing properties.
 
@@ -28,7 +28,7 @@ The REIT has hired us to find a data-driven approach to valuing properties.
 * Our task is to build a real-estate pricing model using that dataset.
 * If we can build a model to predict transaction prices with an average error of under $70,000, then our client can replace inexperienced appraisers with our model.
 
-# Current Solution
+## Current Solution
 
 The REIT currently uses a third-party appraisal service. Appraisers are professionals who visit a property and estimate a fair price using their own expertise.
 
@@ -37,7 +37,7 @@ The REIT currently uses a third-party appraisal service. Appraisers are professi
 * The REIT found that the estimates given by inexperienced appraisers were off by $70,000, on average!
 
 
-#Problem Specifics
+## Problem Specifics
 
 It's always helpful to scope the problem before starting.
 
