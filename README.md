@@ -10,7 +10,7 @@ The code in the notebooks was executed using python 2.7; the following python li
 * seaborn
 * sklearn
 
-The pdf file "Data-Dictionary" presents the description for each feature in the real-estate dataset.
+[Data-Dictionary](Data-Dictionary.pdf) contains the description for each feature present in the real-estate dataset.
 
 ## Project Structure
 
