@@ -12,6 +12,13 @@ The code in the notebooks was executed using python 2.7; the following python li
 
 The pdf file "Data-Dictionary" presents the description for each feature in the real-estate dataset.
 
+## Project Structure
+
+- **Section 1**: [Exploratory Data Analysis](1_Exploratory_Data_Analysis.ipynb)
+- **Section 2**: [Data Cleaning](2_Data_Cleaning.ipynb)
+- **Section 3**: [Feature Engineering](3_Feature_Engineering.ipynb)
+- **Section 4**: [Model Training](4_Model_training.ipynb)
+
 ## Project Context
 
 Our client is a large Real Estate Investment Trust (REIT).
